@@ -2,7 +2,7 @@
 
 ![seednet](assets/logo/seednet/seednet.png)
 
-:sparkles: Questions, bug reports, feedback, feature requests - we're here for it all. If that’s not possible, we’d still like to hear from you. Please [open an issue here](https://github.com/seednet-vn/help/issues/new). :sparkles:
+:sparkles: Questions, bug reports, feedback, feature requests - we're here for it all. If that’s not possible, we’d still like to hear from you. Please [open an issue here](https://github.com/seednet-vn/help/issues/new/choose). :sparkles:
 
 ## Beyond production
 
