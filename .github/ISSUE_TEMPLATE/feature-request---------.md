@@ -1,5 +1,5 @@
 ---
-name: "Feature request ✏️\U0001F4D0\U0001F527\U0001F528"
+name: "Đóng góp ý tưởng hoặc những chức năng mà bạn muốn ✏️\U0001F4D0\U0001F527\U0001F528"
 about: Suggest an idea for this project
 title: ''
 labels: ''

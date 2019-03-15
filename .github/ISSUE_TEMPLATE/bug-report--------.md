@@ -1,5 +1,5 @@
 ---
-name: "Bug report  \U0001F41E\U0001F41B\U0001F514"
+name: "Báo Bug  \U0001F41E\U0001F41B\U0001F514"
 about: Create a report to help us improve
 title: ''
 labels: bug
